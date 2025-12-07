@@ -1,1 +1,1 @@
-上传到 GitHub 并开启 Pages 即可访问。题库由自动化脚本生成，可能需要人工校对。
+上传 index.html 与 questions.json 到仓库根目录。答题后会显示正确答案与解析。
